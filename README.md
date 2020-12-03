@@ -1,4 +1,5 @@
 # Machine-Learning-Project
+# Detection of covid-19 using deep Neural Networks with Chest X-Ray Images – Comparison of DarkNet and ResNet
 
 This project is done as part of CS7313 Machine learning and Pattern Recognition Course.
 
