@@ -15,7 +15,7 @@ In this study, dataset consisting of  X-ray images obtained from two different s
 <div align="center">
     <img src="Picture1.png" width="400px"</img> 
 </div>
-![Screenshot](Picture1.png)
+
 
 
 
