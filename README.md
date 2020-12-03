@@ -14,4 +14,9 @@ In this study, dataset consisting of  X-ray images obtained from two different s
 
 ![Alt text](/relative/path/to/Picture1.png?raw=true "Optional Title")
 
+![ScreenShot](https://raw.github.com/{punithadevaraj}/{Machine-Learning-Project}/{master}/{Picture1.png})
+
+
+
+
 
