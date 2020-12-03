@@ -13,6 +13,9 @@ The reference paper is cited here https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7
 In this study, dataset consisting of  X-ray images obtained from two different sources were used for the diagnosis of COVID-19. First is from (Cohen JP (2020) COVID-19 image data collection. A COVID-19 X-ray image database was developed by Cohen JP(https://github.com/ieee8023/covid-chestxray-dataset) using images from various open access sources. This database is constantly updated with images shared by researchers from different regions. At present, there are 127 X-ray images diagnosed with COVID-19 in the database. Below figure shows a few COVID-19 cases obtained from the database and the findings of the experts.
 
 ![Screenshot](Picture1.png)
+<div align="center">
+    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+</div>
 
 
 
