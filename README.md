@@ -3,6 +3,10 @@
 
 This project is done as part of CS7313 Machine learning and Pattern Recognition Course.
 
+
+``` Note : If you are not able to open any of the Jupyter Notebook, please right click and open in New tab. I encountered this problem several times, so letting you know ```
+
+
 ## ABSTRACT
 
 The catastrophic outbreak of Severe Acute Respiratory Syndrome - Coronavirus (SARS-CoV-2) also known as COVID-2019 has brought the worldwide threat to the living society. It first appeared in Wuhan City of China in December 2019, spread rapidly around the world and evolved into a pandemic. The artificial intelligence researchers are focusing their expertise knowledge to develop mathematical models for analyzing this epidemic situation using nationwide shared data. Application of Artificial Intelligence coupled with radiology imaging can be helpful for the accurate detection of the disease and also to invaluable to overcome the problem of lack of physicians in remote areas. In this study, we propose a deep learning model to identify COVID-19 using the patient’s chest X-ray images. We used transfer learning to tune the pre-trained ResNet-50 model, to maximize the overall **accuracy to 91.95%** whereas the **existing DarkCovidNet-17 multiclassification model has 87.02%**. This shows the potential for transfer learning and deep neural networks to distinguish amongst normal, pneumonia, and COVID-19 using chest X-rays. This helps to ease the pressure off traditional PCR diagnostic tests, while the further implementation could use deep learning for diagnostic radiology.
@@ -44,7 +48,7 @@ In this study, dataset consisting of  X-ray images obtained from two different s
     - OpenCV
     - pickle
     
-``Note : If you are not able to open any of the Jupyter Notebook, please right click and open in New tab. I encountered this problem several times, so letting you know```
+
  
 
 
