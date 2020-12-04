@@ -43,6 +43,9 @@ In this study, dataset consisting of  X-ray images obtained from two different s
     - Matplotlib
     - OpenCV
     - pickle
+    
+``Note : If you are not able to open any of the Jupyter Notebook, please right click and open in New tab. I encountered this problem several times, so letting you know```
+ 
 
 
 
